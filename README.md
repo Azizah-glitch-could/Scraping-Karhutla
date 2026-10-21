@@ -34,7 +34,7 @@ Dataset disimpan dalam format CSV (data_karhutla_final.csv) dengan atribut data 
 
 ## Kelompok 5
 * 1. Nur Asizah.S (240907501032)
-* 2. Hilda Selfianti (240907500021)
+* 2. Hilda Selfianti (240907500024)
 * 3. Hasrah Tazkia (240907502034)
 * Program Studi: Bisnis Digital
 * Fakultas: Ekonomi dan Bisnis, Universitas Negeri Makassar
