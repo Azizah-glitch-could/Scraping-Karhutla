@@ -1,6 +1,6 @@
 # Project Scraping Data Karhutla via Python API
 
-Repository ini berisi project scraping data media sosial terkait isu Karhutla (Kebakaran Hutan dan Lahan) di Indonesia. Project ini dibuat untuk memenuhi tugas mata kuliah Analisis Media Sosial / Analisis Data dengan memanfaatkan API serta pemrosesan data menggunakan Python.
+Repository ini berisi project scraping data media sosial terkait isu Karhutla (Kebakaran Hutan dan Lahan) di Indonesia. Project ini dibuat untuk memenuhi tugas mata kuliah Analisis Media Sosial dengan memanfaatkan API serta pemrosesan data menggunakan Python.
 
 ---
 
