@@ -32,32 +32,6 @@ Dataset disimpan dalam format CSV (data_karhutla_final.csv) dengan atribut data 
 * created_at / timestamp: Waktu postingan dibuat.
 * metrics: Jumlah interaksi (like, retweet, atau komentar).
 
----
-
-## 4. Panduan Menjalankan Script (How to Run)
-
-### Prasyarat (Prerequisites)
-* Python 3.10+
-* Visual Studio Code / Terminal
-* Git LFS (Large File Storage)
-
-### Langkah-Langkah:
-1. Clone Repository Ini:
-   git clone https://github.com/Azizah-glitch-could/Scraping-Karhutla.git
-   cd Scraping-Karhutla
-
-2. Aktifkan Virtual Environment & Install Library:
-   # Di Windows (PowerShell)
-   .\envku\Scripts\Activate.ps1
-   
-   # Install dependencies
-   pip install pandas requests apify-client
-
-3. Jalankan Script Scraper:
-   python apify_scraper.py
-
----
-
 ## Kelompok 5
 * 1. Nur Asizah.S (240907501032)
 * 2. Hilda Selfianti (240907500021)
